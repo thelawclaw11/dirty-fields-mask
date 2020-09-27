@@ -1,4 +1,5 @@
 function helloWorld() {
-  return "Hello World!";
+  return "This is a test message for dirty-fields-mask! Hey Harrison!";
 }
+
 module.exports = helloWorld;
